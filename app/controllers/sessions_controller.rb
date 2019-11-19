@@ -7,4 +7,6 @@ class SessionsController < ApplicationController
     redirect_to '/'
   end
   
+  def 
+  
 end
