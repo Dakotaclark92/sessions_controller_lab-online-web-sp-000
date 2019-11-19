@@ -7,6 +7,8 @@ class SessionsController < ApplicationController
     redirect_to '/'
   end
   
-  def 
+  def destroy
+    
+  end
   
 end
